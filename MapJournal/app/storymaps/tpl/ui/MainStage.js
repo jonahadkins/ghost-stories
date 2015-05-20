@@ -377,6 +377,15 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 									app.map.infoWindow.markerSymbol = new SimpleMarkerSymbol().setSize(0);
 								}
 
+								updateMainMediaMapsStep2(
+									mapContainer, 
+									section, 
+									extentBeforeUpdate, 
+									index, 
+									media,
+									false
+								);
+
 								var lensNode = domConstruct.create("div", {
 									id: "lensWidget"
 								}, dojoQuery(".medias")[0]);
@@ -389,17 +398,9 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 									WebApplicationData.getColors(),
 									WebApplicationData.getTitle(),
 									app.mode,
-									response.map.layerIds,
-									150,
+									response.map.graphicsLayerIds,
+									0,
 									null
-								);
-								updateMainMediaMapsStep2(
-									mapContainer, 
-									section, 
-									extentBeforeUpdate, 
-									index, 
-									media,
-									false
 								);
 								
 								//

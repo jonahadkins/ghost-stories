@@ -77,7 +77,7 @@ define(["dojo/_base/declare",
 				//domStyle.set(dom.byId('sliderDiv'), "display", "none");
 				
 				//Needed to prevent spyglass movement from expanding window beyond map
-				$('#mapPanel').css('overflowX', 'hidden');
+				$('.medias').css('overflowX', 'hidden');
 				
 				$('.esriPopup').addClass('hidePopup')
 				
@@ -106,7 +106,7 @@ define(["dojo/_base/declare",
 				// function to define the boundaries for the lens window
 				// this is used in the constrainedMoveable constructor
 				var mbFunction = function(){
-					var coords = html.coords("mainMap0");
+					var coords = html.coords(mapContainerNode);
 					var b = {};
 					b.t = 0;
 					b.l = 0;
@@ -144,7 +144,7 @@ define(["dojo/_base/declare",
 				};
 				
 				var handleLensDblClick = function(){
-					var mapLevel = parseInt(dom.byId("mainMap0").getAttribute("data-zoom"));
+					var mapLevel = parseInt(mapContainerNode.getAttribute("data-zoom"));
 					_this.map.setZoom(mapLevel + 1);
 				}
 				
@@ -194,7 +194,7 @@ define(["dojo/_base/declare",
 								
 				on(dom.byId("lensWin"), (!has("mozilla") ? "mousewheel" : "DOMMouseScroll"), function(e){
    					var scroll = e[(!has("mozilla") ? "wheelDelta" : "detail")] * (!has("mozilla") ? 1 : -1);
-					var mapLevel = parseInt(dom.byId("mainMap0").getAttribute("data-zoom"));
+					var mapLevel = parseInt(mapContainerNode.getAttribute("data-zoom"));
 					var wheelDelta = !has("mozilla") ? 120 : 3;
 					var mapZoom = scroll/wheelDelta;
 					_this.map.setZoom(mapLevel + mapZoom)
@@ -213,8 +213,8 @@ define(["dojo/_base/declare",
 				if ($('#lensTool').css("width") == "200px")
 					lensHeight = 100;
 				
-				var vertCenter = Math.floor((parseInt($("#mainMap0").css("height"))) / 2) - lensHeight + "px";
-				var horizCenter = Math.floor(parseInt($("#mainMap0").css("width")) / 2) - lensHeight + lensCenterOffset + "px";
+				var vertCenter = Math.floor((parseInt($(mapContainerNode).css("height"))) / 2) - lensHeight + "px";
+				var horizCenter = Math.floor(parseInt($(mapContainerNode).css("width")) / 2) - lensHeight + lensCenterOffset + "px";
 				domStyle.set(this.lensWin, {
 					top: vertCenter,
 					left: horizCenter
@@ -361,7 +361,7 @@ define(["dojo/_base/declare",
 			clipGraphics: function()
 			{
 				// TODO TEST (added or app.mode == two wemaps)
-				if( !_this._isGraphics || mode == "TWO_WEBMAPS")
+				if( !_this._isGraphics || _mode == "TWO_WEBMAPS")
 					return
 				var spyGlassDiv = $("#lensWin");
 				var leftval = parseFloat(spyGlassDiv.css('left'));
