@@ -320,21 +320,21 @@ define(["dojo/_base/declare",
 					$('#lensTool').addClass("twoLayers");
 					if (!_this._isGraphics) {
 						connect.connect(this.draggableWin, "onMove", lang.hitch(this, this.clipGlass));
-						on(app.map, "pan", lang.hitch(this, function(){
-							this.clipGlass("pan");
+						on(_this.map, "pan", lang.hitch(this, function(){
+							_this.clipGlass("pan");
 						}));
-						
+
 						if (has("touch")) {
 							connect.connect(this.draggableWin, "onMoveStop", lang.hitch(this, this.clipGlass));
-							on(app.map, "pan-end", lang.hitch(this, this.clipGlass));
+							on(_this.map, "pan-end", lang.hitch(this, this.clipGlass));
 						}				
 					}
 					else
 						connect.connect(this.draggableWin, "onMove", lang.hitch(this, this.clipGraphics));
-						on(app.map, "pan", lang.hitch(this, this.clipGraphics));
+						on(_this.map, "pan", lang.hitch(this, this.clipGraphics));
 					
 					if (_this._isGraphics) {
-						on(app.map, 'zoom-end', lang.hitch(this, this.clipGraphics));
+						on(_this.map, 'zoom-end', lang.hitch(this, this.clipGraphics));
 					}
 
 					$(window).resize(function(){
@@ -353,7 +353,7 @@ define(["dojo/_base/declare",
 				}
 				
 				if( _this._isGraphics ) {
-					on(app.map, "pan-end", lang.hitch(this, this.clipGraphics));
+					on(this.map, "pan-end", lang.hitch(this, this.clipGraphics));
 				}
 
 				this._started = true;			
@@ -365,13 +365,15 @@ define(["dojo/_base/declare",
 				if( !_this._isGraphics || _mode == "TWO_WEBMAPS")
 					return
 				var spyGlassDiv = $("#lensWin");
-				var leftval = parseFloat(spyGlassDiv.css('left'));
-				var rightval = parseInt($('#lensWin').css('width'));
-				var topval = parseFloat(spyGlassDiv.css('top'));
-				var bottomval = parseInt($('#lensWin').css('height'));
 
 				array.forEach(_layers, lang.hitch(this, function(layerId) {
+					var leftval = parseFloat(spyGlassDiv.css('left'));
+					var rightval = parseInt($('#lensWin').css('width'));
+					var topval = parseFloat(spyGlassDiv.css('top'));
+					var bottomval = parseInt($('#lensWin').css('height'));
+
 					var layer = _this.map.getLayer(layerId)._div;
+					layer.setClip({});
 					var tr = layer.getTransform();
 					// if we got the transform object
 					if (tr) {
