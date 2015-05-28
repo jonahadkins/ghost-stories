@@ -2,9 +2,726 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d0a5d3-738d-4b3c-8d0a-c8aa4448f21c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js" afterPath="$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js" afterPath="$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapJournal/app/main-config.js" afterPath="$PROJECT_DIR$/MapJournal/app/main-config.js" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\commonConfig.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\main-app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\main-config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\Core.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\Core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Semibold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Semibold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Semibold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\font\OpenSans-Semibold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\browse-dialog\ago_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\browse-dialog\default.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-command-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-command-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-media-types.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-settings-header-logo-esri.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-settings-header-simulator.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-settings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-share-shareBtn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-share-switch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-share-tooltips.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\builder-share.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\ckeditor\builder-edit-border.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\esri-globe.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\esri-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\mapcommand-home.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\mapcommand-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\mapcommand-location-marker.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\mapcommand-location.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-position-center.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-position-custom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-position-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-position-fit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-position-stretch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-configure-refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media-video-help-embed-dailymotion.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-flickr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-picasa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-url.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\media\builder-media-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\icons\warning-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ar\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ar\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ar\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ar\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\cs\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\cs\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\cs\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\cs\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\da\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\da\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\da\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\da\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\de\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\de\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\de\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\de\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\el\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\el\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\el\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\el\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\es\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\es\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\es\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\es\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\et\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\et\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\et\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\et\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fi\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fi\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fi\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fi\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fr\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fr\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fr\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\fr\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\he\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\he\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\he\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\he\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\it\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\it\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\it\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\it\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ja\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ja\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ja\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ja\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ko\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ko\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ko\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ko\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lt\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lt\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lt\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lt\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lv\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lv\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lv\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\lv\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nb\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nb\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nb\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nb\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nl\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nl\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nl\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\nl\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pl\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pl\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pl\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pl\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-BR\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-BR\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-BR\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-BR\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-PT\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-PT\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-PT\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\pt-PT\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ro\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ro\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ro\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ro\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ru\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ru\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ru\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\ru\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\sv\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\sv\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\sv\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\sv\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\th\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\th\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\th\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\th\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\tr\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\tr\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\tr\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\tr\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\vi\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\vi\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\vi\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\vi\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\zh-CN\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\zh-CN\mapcontrols.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\zh-CN\media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\_resources\nls\zh-CN\webmap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\Builder.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\Builder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\BuilderHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\BuilderPanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\BuilderPanel.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\BuilderPanel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\InlineFieldEdit.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\InlineFieldEdit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SaveErrorPopup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SaveErrorPopup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SaveErrorPopup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SharePopup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SharePopup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\SharePopup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\css\browse-dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\js\BrowseIdDlg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\js\Grid.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\js\PortalItemStore.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\js\_RefreshMixin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\js\templates\BrowseIdDlg.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\browse-dialog\storymaps-override.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\editor.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Geocode.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Geocode.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Geocode.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Media.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Media.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\dialog\Media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\icons\geocode.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\icons\media.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\icons\previewAction.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\icons\removeAction.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsAction\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsInlineMedia\dialog\Media.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsInlineMedia\dialog\Media.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsInlineMedia\dialog\Media.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsInlineMedia\icons\inlineMedia.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsInlineMedia\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsSwitchToPopup\icons\switchToPopup.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\ckeditor\plugins\storymapsSwitchToPopup\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\MediaSelector.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\MediaSelector.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\MediaSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewConfigure.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewConfigure.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewConfigure.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewPicker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewPicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\ViewPickerItem.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\Selector.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\Selector.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\Selector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFacebook.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFacebook.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFacebook.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFacebookAlbum.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFlickr.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFlickr.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFlickr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewFlickrSet.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewHome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewHome.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewHome.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewPicasa.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewPicasa.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewPicasa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\image\ViewPicasaAlbum.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\MapConfigOverlay.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\MapConfigOverlay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\MapConfigOverlay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\WebMapSelector.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\WebMapSelector.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\map\WebMapSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\Selector.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\Selector.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\Selector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewHome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewHome.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewHome.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewOther.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewOther.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewOther.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewVideoCommon.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewVideoCommon.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewVideoCommonDetail.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewVimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\video\ViewYoutube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\Selector.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\Selector.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\Selector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\ViewHome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\ViewHome.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\media\webpage\ViewHome.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\SettingsPopup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\SettingsPopup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\SettingsPopup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewHeader.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutHorizontal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutHorizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutHorizontal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutVertical.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutVertical.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutVertical.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewLayoutVerticalItem.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewTheme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewTheme.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\builder\settings\ViewTheme.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\command\MapCommand.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\command\MapCommand.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\legend\Legend.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\legend\Legend.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\legend\Legend.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\overview\Overview.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\overview\Overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\mapcontrols\overview\Overview.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\Modal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\header\Desktop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\header\Desktop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\header\Mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\header\Mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\loadingIndicator\LoadingIndicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\loadingIndicator\LoadingIndicator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareDialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareDialog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareEmbedPanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareEmbedPanel.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareEmbedPanel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareURLPanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareURLPanel.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\ui\share\ShareURLPanel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\CommonHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\HeaderHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\MovableGraphic.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\Polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\SocialSharing.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\SocialSharing.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\WebMapHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\connector\Facebook.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\connector\Flickr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\connector\Picasa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\connector\Vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\common\utils\connector\Youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\swipe\ui\SpyGlass.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\swipe\ui\SpyGlass.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\BuildConfigBuilder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\BuildConfigViewer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\BuilderView.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\BuilderView.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\BuilderView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Help.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Help.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Help.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\InitPopup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\InitPopup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\InitPopup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Landing.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Landing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\Landing.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\OrganizePopup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\OrganizePopup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\OrganizePopup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\OrganizePopupEntry.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\Popup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\Popup.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\Popup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\ViewText.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\ViewText.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\addedit\ViewText.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutFonts.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutFonts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutFonts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutOptions.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\builder\settings\ViewLayoutOptions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\Config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\Data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\Helper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\MainView.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\MainView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\core\WebApplicationData.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\MainMediaContainerEmbed.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\MainMediaContainerImage.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\MainMediaContainerMap.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\MainStage.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\MainStage.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\Responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\StoryText.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\StoryText.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\DotNavBar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\DotNavBar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\FloatingPanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\FloatingPanel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\FloatingPanelSection.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\SidePanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\SidePanel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\desktop\SidePanelSection.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\mobile\Common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\mobile\FloatingSwiper.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\mobile\FloatingSwiper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\tpl\ui\mobile\FloatingSwiperSection.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ZeroClipboard\ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ZeroClipboard\ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\css\TableOfContents.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\css\fontello-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\css\fontello.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\font\fontello.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\font\fontello.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\font\fontello.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\font\fontello.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\js\TableOfContents.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\js\dijit\templates\TableOfContents.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\arcgis-dijit-table-of-contents\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\css\bootstrap-datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.kr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap-datetimepicker\js\locales\bootstrap-datetimepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\config.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\bootstrap\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\build-config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\contents.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\af.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\bn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\bs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\eo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\eu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\fo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\gl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\hi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\id.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\is.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ja.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ka.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\km.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ko.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ku.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\mk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\mn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\pt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\si.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sr-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\th.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\tt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\ug.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\lang\zh.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\clipboard\dialogs\paste.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\colordialog\dialogs\colordialog.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\confighelper\docs\install.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\confighelper\docs\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\dialog\dialogDefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\icons_hidpi.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\image2\dialogs\image2.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\link\dialogs\anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\link\dialogs\link.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\link\images\anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\link\images\hidpi\anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\liststyle\dialogs\liststyle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\table\dialogs\table.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\tabletools\dialogs\tableCell.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\plugins\widget\images\handle.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\dialog_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\dialog_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\dialog_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\dialog_iequirks.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor_gecko.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\editor_iequirks.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\icons_hidpi.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\hidpi\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\hidpi\lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\hidpi\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\hidpi\refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\images\refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\skins\moono\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\ckeditor\styles.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\colorbox\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\colorbox\images\border1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\colorbox\images\border2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\colorbox\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\colorbox\jquery.colorbox.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\history.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery-ui-1.10.4.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery.fastClick.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery.hammer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\jquery.ui.touch-punch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\swiper\idangerous.swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-app\swiper\idangerous.swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\css-builder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\css.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\i18n.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\js-api-optimizer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\lodash.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\normalize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\text.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\lib-build\tpl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-edit-fields.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-help.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-layout-spyglass.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-layout-swipe.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-0-0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-0-0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-0-1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-0-1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-1-0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-1-0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-1-1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-0-1-1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-0-0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-0-0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-0-1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-0-1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-1-0-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-1-0-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-1-1-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-preview-1-1-1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-selectMap-ago_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-selectMap-default.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-settings-locate.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-share-shareBtn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-share-switch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\builder-view.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\esri-globe.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\esri-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\esri-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\loader-upload.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\mapcommand-home.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\mapcommand-location-marker.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\mapcommand-location.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\nicEditorIcons.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\sprite-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\tooltip-legend-configure.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\icons\tooltip-map-id.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-add.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-check.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-command-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-edit-border.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-edit-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-edit-noborder.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-forward.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help-topic2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help-topic3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help-topic4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help-topic5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help-topic6-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-help2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-layout-float.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-layout-side.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-organize.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-popup-header-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-settings-locate.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-tips.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\builder-tour.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\editor-collapse-expand.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\icons\layout-thumbnail-number.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\ar\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\cs\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\da\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\de\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\el\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\es\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\et\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\fi\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\fr\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\he\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\it\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\ja\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\ko\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\lt\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\lv\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\nb\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\nl\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\pl\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\pt-BR\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\pt-PT\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\ro\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\ru\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\sv\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\th\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\tr\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\vi\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\builder\nls\zh-CN\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\config.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\animation.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\fontello-codes.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\fontello-embedded.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\fontello-ie7-codes.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\fontello-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\css\fontello.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\demo.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\font\fontello.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\font\fontello.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\font\fontello.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\font\font\fontello.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\dotNavBar-arrows-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\embed-arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\esri-logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\esri-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\loading-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\mainmedia-back.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\mainstage-background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\map-pin-circle-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\media-fullscreen-close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\media-fullscreen.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\side-resizer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\icons\side-scroll.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\ar\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\cs\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\da\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\de\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\el\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\es\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\et\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\fi\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\fr\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\he\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\it\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\ja\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\ko\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\lt\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\lv\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\nb\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\nl\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\pl\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\pt-BR\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\pt-PT\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\ro\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\ru\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\sv\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\th\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\tr\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\vi\template.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\resources\tpl\viewer\nls\zh-CN\template.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ghost-stories.iml" afterPath="$PROJECT_DIR$/.idea/ghost-stories.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ghost-stories.iws" />
@@ -27,102 +744,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapJournal/index.html">
+        <entry file="file://$PROJECT_DIR$/deploy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-39.666668">
-              <caret line="137" column="46" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainStage.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5379665">
-              <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="swipe-config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapSwiper/app/swipe-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3448277">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Core.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/core/Core.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="539" column="12" selection-start-line="539" selection-start-column="12" selection-end-line="543" selection-end-column="12" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
               <folding>
-                <marker date="1425682201000" expanded="true" signature="34473:34489" placeholder="..." />
+                <marker date="1432213595088" expanded="true" signature="6471:6631" placeholder="..." />
+                <marker date="1432213595088" expanded="true" signature="14833:15171" placeholder="..." />
+                <marker date="1432213595088" expanded="true" signature="14852:15164" placeholder="{...}" />
+                <marker date="1432213595088" expanded="true" signature="15607:15752" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapJournal/app/main-app.js">
+      <file leaf-file-name="SpyGlass.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main-config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapJournal/app/main-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Core.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/common/Core.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="commonConfig.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapSwiper/app/commonConfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpyGlass.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6666665">
-              <caret line="363" column="47" selection-start-line="363" selection-start-column="47" selection-end-line="363" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapSwiper/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-43.127274">
-              <caret line="210" column="42" selection-start-line="210" selection-start-column="42" selection-end-line="210" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.7134084">
+              <caret line="386" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,6 +786,8 @@
         <option value="$PROJECT_DIR$/MapJournal/app/main-config.js" />
         <option value="$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js" />
         <option value="$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js" />
       </list>
     </option>
   </component>
@@ -213,7 +855,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Swiper" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,21 +869,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MapSwiper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapSwiper" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -259,29 +887,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MapSwiper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storymaps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapSwiper" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -293,7 +899,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="swipe" />
+              <option name="myItemId" value="tpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,79 +913,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storymaps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghost-stories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -409,7 +943,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MapJournal" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -420,8 +954,18 @@
               <option name="myItemId" value="storymaps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="ghost-stories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost-stories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deploy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -435,7 +979,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Journal" />
+              <option name="myItemId" value="deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,7 +997,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Journal" />
+              <option name="myItemId" value="deploy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -464,7 +1012,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Code/ArmyMapper/arcgis-web-appbuilder-1.0/server/apps/portalwmv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="recentsLimit" value="5" />
@@ -477,7 +1025,7 @@
       <recent name="C:\Users\kbigley\Documents\GitHub\kbigley\ghost-stories\MapJournal\app\storymaps\swipe\ui" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/ghost-stories/JournalSrc/index.html">
       <method />
     </configuration>
@@ -488,6 +1036,9 @@
       <method />
     </configuration>
     <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ghost-stories/MapSwiper/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ghost-stories/src/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -528,18 +1079,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +1117,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16520894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -576,6 +1128,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16520894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -614,90 +1167,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MapJournal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="32" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/core/MainView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js">
+    <entry file="file://$PROJECT_DIR$/deploy/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/core/WebApplicationData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/WebApplicationData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainMediaContainerMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/MainView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="187" column="24" selection-start-line="187" selection-start-column="24" selection-end-line="196" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="68" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/SwipeHelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="309" column="16" selection-start-line="309" selection-start-column="16" selection-end-line="316" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/resources/tpl/viewer/nls/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323263">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <marker date="1432213595088" expanded="true" signature="6471:6631" placeholder="..." />
+            <marker date="1432213595088" expanded="true" signature="14833:15171" placeholder="..." />
+            <marker date="1432213595088" expanded="true" signature="14852:15164" placeholder="{...}" />
+            <marker date="1432213595088" expanded="true" signature="15607:15752" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,299 +1187,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/license.txt">
+    <entry file="file://$USER_HOME$/Downloads/swipe-map-storytelling-template-js-master/Swipe/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="233" column="30" selection-start-line="233" selection-start-column="30" selection-end-line="233" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/Readme.txt">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.81780964">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/app/config.js">
+    <entry file="file://$PROJECT_DIR$/deploy/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/app/main-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3347398">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/app/builder-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33236152">
-          <caret line="11601" column="16" selection-start-line="11601" selection-start-column="16" selection-end-line="11601" selection-end-column="16" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <marker date="1432213595088" expanded="true" signature="6471:6631" placeholder="..." />
+            <marker date="1432213595088" expanded="true" signature="14833:15171" placeholder="..." />
+            <marker date="1432213595088" expanded="true" signature="14852:15164" placeholder="{...}" />
+            <marker date="1432213595088" expanded="true" signature="15607:15752" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/app/main-config.js">
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15084915">
-          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Journal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.333333">
-          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Swiper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/commonConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/common/builder/Builder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Swiper/app/commonConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Swiper/app/swipe-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Swiper/app/swipe-viewer-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/builder/BuilderView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="442" column="27" selection-start-line="442" selection-start-column="27" selection-end-line="442" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/common/utils/CommonHelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31082982">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/builder/BuilderView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2700422">
-          <caret line="174" column="24" selection-start-line="174" selection-start-column="24" selection-end-line="174" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/core/MainView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainMediaContainerMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/core/WebApplicationData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/Data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/Config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/SwipeHelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/resources/icons/sprite-icons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/WebApplicationData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/core/MainView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="57" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/resources/icons/sprite-icons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/swipe/ui/SpyGlass.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3448277">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-39.666668">
-          <caret line="137" column="46" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-43.127274">
-          <caret line="210" column="42" selection-start-line="210" selection-start-column="42" selection-end-line="210" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/commonConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/swipe-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3448277">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/main-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/main-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapSwiper/app/storymaps/core/Core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="539" column="12" selection-start-line="539" selection-start-column="12" selection-end-line="543" selection-end-column="12" />
-          <folding>
-            <marker date="1425682201000" expanded="true" signature="34473:34489" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/common/Core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6666665">
-          <caret line="363" column="47" selection-start-line="363" selection-start-column="47" selection-end-line="363" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5379665">
-          <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.7134084">
+          <caret line="386" column="0" selection-start-line="386" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
           <folding />
         </state>
       </provider>
