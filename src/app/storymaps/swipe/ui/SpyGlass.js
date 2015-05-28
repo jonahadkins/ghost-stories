@@ -2,6 +2,7 @@ define(["dojo/_base/declare",
 		"dojo/_base/connect", 
 		"dojo/_base/html",
 		"dojo/_base/lang",
+		"dojo/_base/array",
 
 		"dojo/dnd/move",
 		"dojo/has",
@@ -28,7 +29,7 @@ define(["dojo/_base/declare",
 		"esri/SpatialReference",
 		"dojo/on",], 
 	function(
-		declare, connect, html, lang,
+		declare, connect, html, lang, array,
 		move, has,
 		dom, domAttr, domStyle, domClass,
 		WidgetBase, TemplatedMixin, WidgetsInTemplateMixin,
@@ -368,28 +369,29 @@ define(["dojo/_base/declare",
 				var rightval = parseInt($('#lensWin').css('width'));
 				var topval = parseFloat(spyGlassDiv.css('top'));
 				var bottomval = parseInt($('#lensWin').css('height'));
-				
-				var layer = _this.map.getLayer(_layers[0])._div;
-				var tr = layer.getTransform();
-				// if we got the transform object
-				if (tr) {
-					// if layer is offset x
-					if (tr.hasOwnProperty('dx')) {
-						leftval += -(tr.dx);
+
+				array.forEach(_layers, lang.hitch(this, function(layerId) {
+					var layer = _this.map.getLayer(layerId)._div;
+					var tr = layer.getTransform();
+					// if we got the transform object
+					if (tr) {
+						// if layer is offset x
+						if (tr.hasOwnProperty('dx')) {
+							leftval += -(tr.dx);
+						}
+						// if layer is offset y
+						if (tr.hasOwnProperty('dy')) {
+							topval += -(tr.dy);
+						}
 					}
-					// if layer is offset y
-					if (tr.hasOwnProperty('dy')) {
-						topval += -(tr.dy);
-					}
-				}
-				
-				layer.setClip({
-					x: leftval + 9,
-					y: topval + 9,
-					width: rightval - 18,
-					height: bottomval - 18
-				})
-				
+
+					layer.setClip({
+						x: leftval + 9,
+						y: topval + 9,
+						width: rightval - 18,
+						height: bottomval - 18
+					})
+				}));
 				_this.calculateSpyExtent();	
 			},
 
