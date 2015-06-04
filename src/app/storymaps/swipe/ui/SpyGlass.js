@@ -332,6 +332,11 @@ define(["dojo/_base/declare",
 					else
 						connect.connect(this.draggableWin, "onMove", lang.hitch(this, this.clipGraphics));
 						on(_this.map, "pan", lang.hitch(this, this.clipGraphics));
+						on(_this.map, "extent-change", lang.hitch(this, function(e) {
+							domStyle.set(this.draggableWin.handle,"top","100px");
+							domStyle.set(this.draggableWin.handle,"left","100px");
+							this.clipGraphics();
+						}));
 					
 					if (_this._isGraphics) {
 						on(_this.map, 'zoom-end', lang.hitch(this, this.clipGraphics));
