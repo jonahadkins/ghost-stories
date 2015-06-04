@@ -7,10 +7,10 @@ label {
 	background-color: transparent;
 	border: 0px solid #444;
 	border-bottom: 0px solid #444;
-	height:261px;
-	overflow: hidden;
+	height:317px; /*415px;*/
+	overflow: visible;
 	position: absolute;
-	width: 261px;
+	width: 317px; /* 415px; */
 	cursor: move;
 	top:0px;
 	left:0px;
@@ -19,20 +19,25 @@ label {
 
 #lensTool {
  	position: absolute;
-	width: 261px;
-	height: 261px;
+	top: 70px; /*  77px; */
+	left: 20px; /* 77px; */
+	width: 280px; /* 261px; */
+	height: 180px; /* 261px; */
 	background-repeat: no-repeat;
 	z-index: 39 !important;
 }
-
+#lensWin {
+	background: url('../../../../resources/icons/sprite-icons.png') -1244px -1577px;
+	/*background: url('../../../../resources/icons/sprite-icons.png') -1195px -1952px;*/
+}
+/*
 #lensTool.twoLayers {
-	background: url('../../../../resources/icons/sprite-icons.png') -536px -530px;
+	background: url('../../../../resources/icons/sprite-icons.png') -1195px -1952px;
 }
 
 #lensTool.twoMaps {
 	background: url('../../../../resources/icons/sprite-icons.png') -536px -841px;
 }
-
 #lensTool.safariFix {
 	background: url('../../../../resources/icons/sprite-icons.png') -536px -530px;
 }
@@ -40,6 +45,7 @@ label {
 #lensMapNode.safariFix #lensMapNode_container {
 	clip: rect(9px 252px 252px 9px) !important;
 }
+*/
 
 #infoWindow {
 	position: absolute;
