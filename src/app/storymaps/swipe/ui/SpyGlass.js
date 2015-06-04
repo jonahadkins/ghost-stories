@@ -369,13 +369,14 @@ define(["dojo/_base/declare",
 				// TODO TEST (added or app.mode == two wemaps)
 				if( !_this._isGraphics || _mode == "TWO_WEBMAPS")
 					return
-				var spyGlassDiv = $("#lensWin");
+				var spyGlassWin = $("#lensWin");
+				var spyGlassTool = $("#lensTool");
 
 				array.forEach(_layers, lang.hitch(this, function(layerId) {
-					var leftval = parseFloat(spyGlassDiv.css('left'));
-					var rightval = parseInt($('#lensWin').css('width'));
-					var topval = parseFloat(spyGlassDiv.css('top'));
-					var bottomval = parseInt($('#lensWin').css('height'));
+					var leftval = parseFloat(spyGlassWin.css('left')) + parseFloat(spyGlassTool.css('left'));
+					var rightval = parseInt(spyGlassTool.css('width'));
+					var topval = parseFloat(spyGlassWin.css('top')) + parseFloat(spyGlassTool.css('top'));
+					var bottomval = parseInt(spyGlassTool.css('height'));
 
 					var layer = _this.map.getLayer(layerId)._div;
 					layer.setClip({});

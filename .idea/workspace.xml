@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d0a5d3-738d-4b3c-8d0a-c8aa4448f21c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css" afterPath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js" afterPath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
               <folding>
                 <marker date="1432213595088" expanded="true" signature="6471:6631" placeholder="..." />
@@ -39,11 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpyGlass.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpyGlass.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3828045">
-              <caret line="334" column="85" selection-start-line="334" selection-start-column="85" selection-end-line="334" selection-end-column="85" />
+            <state vertical-scroll-proportion="-11.56">
+              <caret line="377" column="55" selection-start-line="377" selection-start-column="55" selection-end-line="377" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpyGlass.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.80040944">
+              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -68,6 +79,7 @@
         <option value="$PROJECT_DIR$/MapJournal/app/storymaps/swipe/ui/SpyGlass.js" />
         <option value="$PROJECT_DIR$/MapJournal/app/storymaps/tpl/ui/MainStage.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css" />
         <option value="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js" />
       </list>
     </option>
@@ -137,6 +149,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost-stories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ghost-stories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,10 +533,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/icons/sprite-icons.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3828045">
-          <caret line="334" column="85" selection-start-line="334" selection-start-column="85" selection-end-line="334" selection-end-column="85" />
+        <state vertical-scroll-proportion="-11.56">
+          <caret line="377" column="55" selection-start-line="377" selection-start-column="55" selection-end-line="377" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80040944">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
           <folding />
         </state>
       </provider>
