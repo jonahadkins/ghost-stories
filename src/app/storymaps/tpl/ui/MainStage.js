@@ -389,7 +389,7 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 								var lensNode = domConstruct.create("div", {
 									id: "lensWidget"
 								}, dojoQuery(".medias")[0]);
-								app.spyGlass = new SpyGlass(app.indexCfg.spyGlassWebmapId, lensNode);
+								app.spyGlass = new SpyGlass("", lensNode);
 								app.spyGlass.startup(
 									WebApplicationData.getWebmap(),
 									lensNode,
