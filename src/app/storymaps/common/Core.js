@@ -697,7 +697,7 @@ define(["lib-build/css!lib-app/bootstrap/css/bootstrap.min",
 		
 		function hasSwitchBuilderButton()
 		{
-			return ! app.isInBuilder && (
+			return ! app.isInBuilder && app.showEdit && (
 				(! isProd() && !! CommonHelper.getAppID(isProd()))
 				|| isProd() && app.data.userIsAppOwner());
 		}

@@ -78,6 +78,9 @@ define(["dojo/cookie",
 				
 				if( app.indexCfg && app.indexCfg.appid )
 					return app.indexCfg.appid;
+
+				if(!isProd && configOptions && configOptions.appid)
+					return configOptions.appid;
 				
 				if ( this.isArcGISHosted() || ! isProd )
 					return urlParams.appid;
