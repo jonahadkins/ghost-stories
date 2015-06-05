@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d0a5d3-738d-4b3c-8d0a-c8aa4448f21c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js" afterPath="$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css" afterPath="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ghost-stories.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,13 +36,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2352941">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="56" column="21" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="21" />
               <folding>
-                <marker date="1433454842339" expanded="true" signature="6413:6573" placeholder="..." />
-                <marker date="1433454842339" expanded="true" signature="14775:15113" placeholder="..." />
-                <marker date="1433454842339" expanded="true" signature="14794:15106" placeholder="{...}" />
-                <marker date="1433454842339" expanded="true" signature="15549:15694" placeholder="..." />
+                <marker date="1433535234446" expanded="true" signature="6413:6573" placeholder="..." />
+                <marker date="1433535234446" expanded="true" signature="14775:15113" placeholder="..." />
+                <marker date="1433535234446" expanded="true" signature="14794:15106" placeholder="{...}" />
+                <marker date="1433535234446" expanded="true" signature="15549:15694" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -64,7 +61,7 @@
       <file leaf-file-name="SpyGlass.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-225.76">
+            <state vertical-scroll-proportion="0.0">
               <caret line="377" column="55" selection-start-line="377" selection-start-column="55" selection-end-line="377" selection-end-column="55" />
               <folding />
             </state>
@@ -74,8 +71,8 @@
       <file leaf-file-name="SpyGlass.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.858885">
-              <caret line="29" column="81" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
+            <state vertical-scroll-proportion="0.39021957">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -144,6 +141,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -395,7 +393,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -504,7 +501,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39126214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -516,6 +512,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39126214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -554,16 +551,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="391" column="62" selection-start-line="391" selection-start-column="62" selection-end-line="391" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <marker date="1433535234446" expanded="true" signature="6413:6573" placeholder="..." />
+            <marker date="1433535234446" expanded="true" signature="14775:15113" placeholder="..." />
+            <marker date="1433535234446" expanded="true" signature="14794:15106" placeholder="{...}" />
+            <marker date="1433535234446" expanded="true" signature="15549:15694" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/common/utils/CommonHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="377" column="55" selection-start-line="377" selection-start-column="55" selection-end-line="377" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/deploy/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-          <folding>
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,12 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,12 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2225549">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,13 +690,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-225.76">
+        <state vertical-scroll-proportion="0.0">
           <caret line="377" column="55" selection-start-line="377" selection-start-column="55" selection-end-line="377" selection-end-column="55" />
           <folding />
         </state>
@@ -687,12 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06743738">
           <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-          <folding>
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1433454210567" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,13 +718,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2352941">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="21" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="21" />
           <folding>
-            <marker date="1433454842339" expanded="true" signature="6413:6573" placeholder="..." />
-            <marker date="1433454842339" expanded="true" signature="14775:15113" placeholder="..." />
-            <marker date="1433454842339" expanded="true" signature="14794:15106" placeholder="{...}" />
-            <marker date="1433454842339" expanded="true" signature="15549:15694" placeholder="..." />
+            <marker date="1433535234446" expanded="true" signature="6413:6573" placeholder="..." />
+            <marker date="1433535234446" expanded="true" signature="14775:15113" placeholder="..." />
+            <marker date="1433535234446" expanded="true" signature="14794:15106" placeholder="{...}" />
+            <marker date="1433535234446" expanded="true" signature="15549:15694" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -727,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.858885">
-          <caret line="29" column="81" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.39021957">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
         </state>
       </provider>
