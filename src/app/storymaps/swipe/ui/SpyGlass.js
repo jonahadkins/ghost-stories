@@ -17,6 +17,7 @@ define(["dojo/_base/declare",
 		"dijit/_WidgetsInTemplateMixin",
 	
 		"dijit/registry",
+		"dojo/topic",
 		
 		"esri/geometry/Point",
 		"esri/geometry/Extent",
@@ -33,7 +34,7 @@ define(["dojo/_base/declare",
 		move, has,
 		dom, domAttr, domStyle, domClass,
 		WidgetBase, TemplatedMixin, WidgetsInTemplateMixin,
-		registry,
+		registry, topic,
 		Point, Extent, Polygon,
 		esriConfig, webMercatorUtils, screenUtils, ScreenPoint,
 		SpatialReference,
@@ -332,9 +333,9 @@ define(["dojo/_base/declare",
 					else
 						connect.connect(this.draggableWin, "onMove", lang.hitch(this, this.clipGraphics));
 						on(_this.map, "pan", lang.hitch(this, this.clipGraphics));
-						on(_this.map, "extent-change", lang.hitch(this, function(e) {
-							domStyle.set(this.draggableWin.handle,"top","100px");
-							domStyle.set(this.draggableWin.handle,"left","100px");
+						topic.subscribe("story-loaded-map", lang.hitch(this, function() {
+							domStyle.set(this.draggableWin.handle, "top", "100px");
+							domStyle.set(this.draggableWin.handle, "left", "100px");
 							this.clipGraphics();
 						}));
 					
