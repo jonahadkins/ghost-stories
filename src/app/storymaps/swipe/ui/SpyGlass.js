@@ -333,6 +333,7 @@ define(["dojo/_base/declare",
 					else
 						connect.connect(this.draggableWin, "onMove", lang.hitch(this, this.clipGraphics));
 						on(_this.map, "pan", lang.hitch(this, this.clipGraphics));
+						on(_this.map, "extent-change", lang.hitch(this, this.clipGraphics));
 						topic.subscribe("story-loaded-map", lang.hitch(this, function() {
 							domStyle.set(this.draggableWin.handle, "top", "100px");
 							domStyle.set(this.draggableWin.handle, "left", "100px");
