@@ -78,13 +78,14 @@ function defineDojoConfig()
 	};
 }
 
-app.isProduction = false;
+app.isProduction = true;
 app.showEdit = false;
 
 defineDojoConfig();
 
 app.isInBuilder = getUrlVar('edit') || getUrlVar('fromScratch') || getUrlVar('fromscratch');
 app.indexCfg = configOptions;
+app.nonSpyGlassGraphicLayerIds = configOptions.nonSpyGlassGraphicLayerIds;
 
 loadCSS(app.pathJSAPI + "esri/css/esri.css", true);
 loadCSS(app.pathJSAPI + "dijit/themes/claro/claro.css", true);

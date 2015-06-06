@@ -19,7 +19,8 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 		"dojo/aspect",
 		"dojo/_base/lang",
 		"dojo/dom-construct",
-		"dojo/query"
+		"dojo/query",
+		"dojo/_base/array"
 	], 
 	function(
 		mainMediaContainerMapTpl,
@@ -43,7 +44,8 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 		aspect,
 		lang,
 		domConstruct,
-		dojoQuery
+		dojoQuery,
+		array
 	){
 		return function MainStage(container, isInBuilder, mainView)
 		{
@@ -398,7 +400,14 @@ define(["lib-build/tpl!./MainMediaContainerMap",
 									WebApplicationData.getColors(),
 									WebApplicationData.getTitle(),
 									app.mode,
-									response.map.graphicsLayerIds,
+									array.filter(response.map.graphicsLayerIds, function(l)
+									{
+										if (app.nonSpyGlassGraphicLayerIds)
+											return array.indexOf(app.nonSpyGlassGraphicLayerIds, l) == -1
+										else
+											return true;
+
+									}),
 									0,
 									null
 								);
