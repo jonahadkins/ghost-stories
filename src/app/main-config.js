@@ -78,7 +78,7 @@ function defineDojoConfig()
 	};
 }
 
-app.isProduction = false;
+app.isProduction = true;
 app.showEdit = false;
 
 defineDojoConfig();

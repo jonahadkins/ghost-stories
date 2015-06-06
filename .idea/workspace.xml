@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d0a5d3-738d-4b3c-8d0a-c8aa4448f21c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js" afterPath="$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/main-config.js" afterPath="$PROJECT_DIR$/src/app/main-config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ghost-stories.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6938776">
+            <state vertical-scroll-proportion="-7.1578946">
               <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
               <folding>
                 <marker date="1433554090236" expanded="true" signature="6471:6631" placeholder="..." />
@@ -61,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main-config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/main-config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.16">
-              <caret line="87" column="74" selection-start-line="87" selection-start-column="74" selection-end-line="87" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.52095807">
+              <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -95,9 +92,9 @@
         <option value="$PROJECT_DIR$/src/app/storymaps/common/utils/CommonHelper.js" />
         <option value="$PROJECT_DIR$/src/app/storymaps/common/Core.js" />
         <option value="$PROJECT_DIR$/src/app/storymaps/swipe/ui/SpyGlass.js" />
-        <option value="$PROJECT_DIR$/src/app/main-config.js" />
         <option value="$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/app/main-config.js" />
       </list>
     </option>
   </component>
@@ -731,14 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/main-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.16">
-          <caret line="87" column="74" selection-start-line="87" selection-start-column="74" selection-end-line="87" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/storymaps/tpl/ui/MainStage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.76">
@@ -749,7 +738,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6938776">
+        <state vertical-scroll-proportion="-7.1578946">
           <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
           <folding>
             <marker date="1433554090236" expanded="true" signature="6471:6631" placeholder="..." />
@@ -757,6 +746,14 @@
             <marker date="1433554090236" expanded="true" signature="14852:15164" placeholder="{...}" />
             <marker date="1433554090236" expanded="true" signature="15607:15752" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/main-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52095807">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
